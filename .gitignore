@@ -1,0 +1,18 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# model + data
+*.pt
+*.onnx
+*.h5
+runs/
+datasets/
+
+# media (optional)
+*.mp4
+*.avi
+*.jpg
+*.pngcls
