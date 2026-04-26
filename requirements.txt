@@ -3,7 +3,5 @@ ultralytics
 opencv-python-headless
 pillow
 numpy
-pandas
-scikit-learn
-matplotlib
-torch torchvision
+torch
+torchvision
